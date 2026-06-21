@@ -17,6 +17,7 @@ Aplicação desenvolvida utilizando:
 ## Integrantes
 
 Rodrigo Loureiro
+Erick Andrew
 
 ## Banco de Dados
 
@@ -29,3 +30,6 @@ Utilizadas regras do Firestore para controle de acesso.
 ## Deploy
 
 GitHub Pages.
+
+## Link da Aplicação
+https://rodrifer2004.github.io/agenda-contatos-ativ/
