@@ -17,6 +17,7 @@ Aplicação desenvolvida utilizando:
 ## Integrantes
 
 Rodrigo Loureiro
+
 Erick Andrew
 
 ## Banco de Dados
